@@ -4,3 +4,4 @@
 <a href="https://bicolorcillo.github.io/practica03.html"> Practica #3 Bootstrap</a><br>
 <a href="https://bicolorcillo.github.io/practica04.html"> Practica #4 Bootstrap </a><br>
 <a href="https://bicolorcillo.github.io/practica05.html"> Practica #5 Bootstrap </a><br>
+<a href="https://bicolorcillo.github.io/practica06.html"> Practica #6 Bootstrap </a><br>
